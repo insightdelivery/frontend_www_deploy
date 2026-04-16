@@ -2,5 +2,5 @@
 2:I[2096,["3265","static/chunks/3265-f71551541d25c74c.js","2123","static/chunks/2123-f267e80453298921.js","372","static/chunks/372-2aa8802e75abffa1.js","5043","static/chunks/app/(site)/about/companyInfo/page-137c8a0de2456644.js"],"HomepageDocClientView"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"docType":"company_intro"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LTxnggj34G6yhR6qF3rhp"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"docType":"company_intro"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Tk7QLVzMW80xPpkoCQerv"}
 5:null
